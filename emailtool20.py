@@ -1,7 +1,7 @@
 # coding: utf-8
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Copyright 2013 Jason Blanks David Nides/Steve Gibson. All Rights Reserved.
+# Copyright 2013 Jason Blanks. All Rights Reserved.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -235,7 +235,7 @@ def main(argv):
 	for opt, arg in opts:
 		if opt == '-h':
 			print
-			print 'copyright Jason Blanks, David Nides 2013'
+			print 'copyright Jason Blanks 2013'
 			print 'for questions, comments, etc contact jason.blanks@gmail.com'
 			print 'Requries redemption Developer version:\nhttp://www.dimastr.com/redemption/download.htm\n'
 			print 'usage:'
